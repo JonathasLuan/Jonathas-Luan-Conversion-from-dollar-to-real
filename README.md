@@ -4,6 +4,7 @@ Algorithm for conversion from dollar to real.
 Algoritmo conversão-dólar
 
 Declaração
+
 Int Cotação-dólar, valor-dólar, resultado-real;
 
 Início
