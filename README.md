@@ -1,4 +1,7 @@
 # Conversion-from-dollar-to-real
+
+Jonathas Luan Cavalcanti Araujo
+
 Algorithm for conversion from dollar to real.
 
 Algoritmo conversão-dólar
