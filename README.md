@@ -1,6 +1,6 @@
 # Conversion-from-dollar-to-real
 
-Jonathas Luan Cavalcanti Araujo
+Jonathas Luan Cavalcanti Araujo, 1 B Informática
 
 Algorithm for conversion from dollar to real.
 
